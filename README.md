@@ -1,5 +1,3 @@
-"# enjoyyourlife" 
-
 Love reading books ?! But don't want the hassle of tracking all the books you read like remembering how many pages you read of a book 
 or bookmark your favourite books which you want to read again or keep a list of books which you have already read. 
 Then you are in the right place :) . In this project what I'm going to do is simple but efficient way of keeping track of your favourite 
@@ -19,6 +17,5 @@ In this android app we shall introduce following features.
 
 Development platform: Android
 Language: Kotlin
-App architecture : MVVM
- 
+App architecture : MVVM 
 
